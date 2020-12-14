@@ -1,0 +1,3042 @@
+-----
+spoon = () => null
+-----
+
+spoon = () => null  { // Create a single entity for the map.
+
+map. addEntity ( map , map . get ());
+
+}
+
+}
+
+// Create the entities in the map.
+
+var entityID = map . get ( ' id ' );
+
+var map = new Entity ( entityID );
+
+if ( ! is_null ( entityID )) {
+
+updateEntity ( entity , false );
+
+}
+
+---- { // Create a single entity for the map.
+
+map. addEntity ( map , map . get ());
+
+}
+
+}
+
+// Create the entities in the map.
+
+var entityID = map . get ( ' id ' );
+
+var map = new Entity ( entityID );
+
+if ( ! is_null ( entityID )) {
+
+updateEntity ( entity , false );
+
+}
+ 
+}
+
+}
+
+@Override
+
+public void updateEntity ( Entity entity ) {
+
+updateEntity ( entity );
+
+}
+
+}
+
+// @Test
+
+void addEntity ( Entity entity ) {
+
+updateEntity ( entity );
+
+}
+
+// @Dispatcher
+
+public class UpdateEntity : Entity
+
+{
+
+public Entity addEntity ( Entity entity ) {
+
+if
+
+---
+
+ { // Create a single entity for the map.
+
+map. addEntity ( map , map . get ());
+
+}
+
+}
+
+// Create the entities in the map.
+
+var entityID = map . get ( ' id ' );
+
+var map = new Entity ( entityID );
+
+if ( ! is_null ( entityID )) {
+
+updateEntity ( entity , false );
+
+}
+ 
+var map = new Entity ( entityID );
+
+if ( map . indexOf ( map )) {
+
+updateEntity ( entity , true );
+
+}
+
+map . push ( map . toArray ());
+
+}
+
+// Update the entity to be rendered as a map object.
+
+var entityObject = map . indexOf ( ' id ' );
+
+// Get all entities in the map.
+
+var
+
+---
+
+ { // Create a single entity for the map.
+
+map. addEntity ( map , map . get ());
+
+}
+
+}
+
+// Create the entities in the map.
+
+var entityID = map . get ( ' id ' );
+
+var map = new Entity ( entityID );
+
+if ( ! is_null ( entityID )) {
+
+updateEntity ( entity , false );
+
+}
+ 
+else {
+
+updateEntity ( entity , new entity );
+
+}
+
+}
+
+// Use a map helper function to get all entities.
+
+map. get ( ' entities ' , function ( t ) {
+
+var entities = t . get ();
+
+for ( var i = 0 ; i < entities . length ; i ++ ) {
+
+if ( entities [ i ] == null ) {
+
+m
+
+---
+
+ { // Create a single entity for the map.
+
+map. addEntity ( map , map . get ());
+
+}
+
+}
+
+// Create the entities in the map.
+
+var entityID = map . get ( ' id ' );
+
+var map = new Entity ( entityID );
+
+if ( ! is_null ( entityID )) {
+
+updateEntity ( entity , false );
+
+}
+ 
+// Update the entity.
+
+entity = new Entity ( entity . getId ());
+
+entity . put ( ' id ' );
+
+entity . set ( ' id ' , 1 );
+
+}
+
+// Initialize the entity.
+
+// This method calls the update entity method of the GetEntity method of the entity object.
+
+var entity = new Entity ( entityID );
+
+let updateEntity = function ()
+
+---
+
+spoon = () => null  ,
+
+if ( isArray ()) {
+
+assert (isArray). isArray ();
+
+assert ( isArray. length ());
+
+assert ( isArray. isArray ();
+
+assert (isArray). equals ( - 2 ). toLowerCase () . substr ( - 1 );
+
+}
+
+return true ;
+
+}
+
+}
+
+return false ;
+
+}
+
+return false ;
+
+
+---- ,
+
+if ( isArray ()) {
+
+assert (isArray). isArray ();
+
+assert ( isArray. length ());
+
+assert ( isArray. isArray ();
+
+assert (isArray). equals ( - 2 ). toLowerCase () . substr ( - 1 );
+
+}
+
+return true ;
+
+}
+
+}
+
+return false ;
+
+}
+
+return false ;
+
+ 
+function GetRandomString ( ) {
+
+return randomString ( 0 ) == ( 0x2 , 2 ) == ( 0x1 , 3 ) == ( 0x2 , 4 ) == ( 0x1 , 5 ) == ( 0x1 , 6 ) == ( 0x1 , 7 ) == ( 0x1 , 8 ) == ( 0x1 , 9 ) == ( 0x1 , 10 ) == (
+
+---
+
+ ,
+
+if ( isArray ()) {
+
+assert (isArray). isArray ();
+
+assert ( isArray. length ());
+
+assert ( isArray. isArray ();
+
+assert (isArray). equals ( - 2 ). toLowerCase () . substr ( - 1 );
+
+}
+
+return true ;
+
+}
+
+}
+
+return false ;
+
+}
+
+return false ;
+
+ 
+fn isArray () {
+
+match *this ;
+
+isArray. next () {
+
+for ( auto & mut self : this) {
+
+assert (isArray. length ());
+
+assert (self. length ());
+
+}
+
+}
+
+return false ;
+
+}
+
+/*
+
+* Returns true if the given hash function is the one specified.
+
+*/
+
+extern crate hash
+
+---
+
+ ,
+
+if ( isArray ()) {
+
+assert (isArray). isArray ();
+
+assert ( isArray. length ());
+
+assert ( isArray. isArray ();
+
+assert (isArray). equals ( - 2 ). toLowerCase () . substr ( - 1 );
+
+}
+
+return true ;
+
+}
+
+}
+
+return false ;
+
+}
+
+return false ;
+
+ 
+/**
+
+* @returns the array of the given
+
+* instance.
+
+* @param type Array
+
+* @param isArray
+
+* @param array of the array of the given
+
+* instance.
+
+* @returns array of the given instance.
+
+*/
+
+function getEnumeration ( type , array ) {
+
+return isArray (type, array) || isArray
+
+---
+
+ ,
+
+if ( isArray ()) {
+
+assert (isArray). isArray ();
+
+assert ( isArray. length ());
+
+assert ( isArray. isArray ();
+
+assert (isArray). equals ( - 2 ). toLowerCase () . substr ( - 1 );
+
+}
+
+return true ;
+
+}
+
+}
+
+return false ;
+
+}
+
+return false ;
+
+ 
+static void set ( string &text)
+
+{
+
+if ( isText ()) {
+
+return ;
+
+}
+
+for ( int i = 0 ; i < text . length ; i ++ ) {
+
+if ( text [i] != " " ) {
+
+text [i] = " - " ;
+
+text [i] = " 1 " ;
+
+}
+
+} else {
+
+
+---
+
+spoon = () => null  ,
+
+on_destroy = () => {
+
+setTimeout ( function () {
+
+// We have successfully destroyed the
+
+// (tuple instance of the (object, array, object.prototype, etc)
+
+// of the last element that was last mutated
+
+});
+
+// We have successfully dereferenced
+
+});
+
+} else {
+
+// We have successfully destroyed the
+
+// (
+---- ,
+
+on_destroy = () => {
+
+setTimeout ( function () {
+
+// We have successfully destroyed the
+
+// (tuple instance of the (object, array, object.prototype, etc)
+
+// of the last element that was last mutated
+
+});
+
+// We have successfully dereferenced
+
+});
+
+} else {
+
+// We have successfully destroyed the
+
+// ( tuple instance of the (object, array, object.prototype, etc)
+
+// of the last element that was last mutated
+
+});
+
+};
+
+on_destroy ( function () {
+
+if (typeof (this) === ' undefined ' ) {
+
+// This is probably the last element that has been dereferenced, or
+
+// maybe it's just one of the elements that we want to
+
+---
+
+ ,
+
+on_destroy = () => {
+
+setTimeout ( function () {
+
+// We have successfully destroyed the
+
+// (tuple instance of the (object, array, object.prototype, etc)
+
+// of the last element that was last mutated
+
+});
+
+// We have successfully dereferenced
+
+});
+
+} else {
+
+// We have successfully destroyed the
+
+// ( tuple instance of the (object, array, object.prototype, etc)
+
+// of the last element that was last mutated
+
+});
+
+}
+
+/**
+
+* Store (aka cache) elements of the same type into an array
+
+* using a reference to that element to create a hash (since it would be a
+
+* reference to a new, non-existing hash)
+
+*
+
+*
+
+---
+
+ ,
+
+on_destroy = () => {
+
+setTimeout ( function () {
+
+// We have successfully destroyed the
+
+// (tuple instance of the (object, array, object.prototype, etc)
+
+// of the last element that was last mutated
+
+});
+
+// We have successfully dereferenced
+
+});
+
+} else {
+
+// We have successfully destroyed the
+
+// ( array instance of the (object, array, object.prototype, etc)
+
+// of the last element that was last mutated
+
+});
+
+return [] => {
+
+0 => {
+
+this . set (this . createList ( this . array . indexOf ()))
+
+};
+
+});
+
+}
+
+};
+
+/**
+
+* Return a value from the constructor. This can be a dictionary,
+
+---
+
+ ,
+
+on_destroy = () => {
+
+setTimeout ( function () {
+
+// We have successfully destroyed the
+
+// (tuple instance of the (object, array, object.prototype, etc)
+
+// of the last element that was last mutated
+
+});
+
+// We have successfully dereferenced
+
+});
+
+} else {
+
+// We have successfully destroyed the
+
+// ( tuple instance of the (object, array, object.prototype, etc)
+
+// of the last element that was last mutated
+
+});
+
+};
+
+}
+
+function destroy () {
+
+var (result) {
+
+const ctx = this . getOwnPropertyAttribute ( ' ctx ' );
+
+if ( ctx . type === ' object ' ) {
+
+throw new TypeError ( ' object
+
+---
+
+spoon = () => null  ) and t . on ( ' click ' , ' highlight ' , t => t . get ( ' button ' ), t . get ( ' text ' ) => t . get ( ' value ' ), t . get ( ' code ' ) => t . get ( ' code ' ) || ' input ' )
+
+The code snippet above is used with css.
+
+import " git config " require " include " ../ css
+---- ) and t . on ( ' click ' , ' highlight ' , t => t . get ( ' button ' ), t . get ( ' text ' ) => t . get ( ' value ' ), t . get ( ' code ' ) => t . get ( ' code ' ) || ' input ' )
+
+The code snippet above is used with css.
+
+import " git config " require " include " ../ css 2.yml import " git import ' git/contrib.git " import " git/utils/css2 " import " git/utils/tuple.json " class Tuple ( css2 : css2 , ts : css2 ) : t = Css ({ css : ts , text : t }) @ Tuple ( css ) def render ( self , data : T ) : ts = {}
+
+---
+
+ ) and t . on ( ' click ' , ' highlight ' , t => t . get ( ' button ' ), t . get ( ' text ' ) => t . get ( ' value ' ), t . get ( ' code ' ) => t . get ( ' code ' ) || ' input ' )
+
+The code snippet above is used with css.
+
+import " git config " require " include " ../ css / stylesheet.md " include " ../ css/ header.md " include " ../ css/ link.md " include " ../ css/ header.md " include " ../ css/ header.html "
+
+To remove files, we simply copy the contents of the src file to the src/ directory, in this case
+
+src/ src/ .js
+
+from css import stylesheet
+
+---
+
+ ) and t . on ( ' click ' , ' highlight ' , t => t . get ( ' button ' ), t . get ( ' text ' ) => t . get ( ' value ' ), t . get ( ' code ' ) => t . get ( ' code ' ) || ' input ' )
+
+The code snippet above is used with css.
+
+import " git config " require " include " ../ css .require("./css/main.css"); import " img " ../ image.css; import " js " ../ js.js; import " javascript " ../ javascript.js; class Button extends ModularButton { public button { return ( <img src="http://example.com/main.gif"> ) } public main { _main(){ return ((( img ) => ( <li> <span></span> )
+
+---
+
+ ) and t . on ( ' click ' , ' highlight ' , t => t . get ( ' button ' ), t . get ( ' text ' ) => t . get ( ' value ' ), t . get ( ' code ' ) => t . get ( ' code ' ) || ' input ' )
+
+The code snippet above is used with css.
+
+import " git config " require " include " ../ css /css/stylesheet.css " import " ./css/stylesheet.css "
+
+Here we pass the code to our stylesheet function and call it with the correct options. For a fully commented and configurable look at the config/views directory it is possible to omit stylesheets.css or stylesheets_options.css as options (in the above example they will have a default value) and omit them as it
+
+---
+
+-------
+
+
+
+-----
+SPONVL
+-----
+
+SPONVL ENUATION (1) [1] INTRODUCTION 1 OF THE AFFECT OF A DUAL TELUSIBILITY OF THE NATURE OF A CHILD (II) A CHILD-MOMENTAL MEXICAN TRAGEDY. . . [2] LANGUAGE OF TELUSIBILITY OF A CHILD IN PAPA AND CAMP. [3] INDIAN INDIA.
+----ENUATION (1) [1] INTRODUCTION 1 OF THE AFFECT OF A DUAL TELUSIBILITY OF THE NATURE OF A CHILD (II) A CHILD-MOMENTAL MEXICAN TRAGEDY. . . [2] LANGUAGE OF TELUSIBILITY OF A CHILD IN PAPA AND CAMP. [3] INDIAN INDIA.  [4] OF THE AFFECT OF A CHILD-MOMENTAL MEXICAN TRAGEDY. [5] INTRODUCTION IN THE AFFECT OF CHILD-MOMENTAL MEXICAN TRAGEDY. . . [6] INDIAN INDIA, TETUYA AND PAPA . . . [7] INDIAN INDIA AND PAPA, PANORAMA,
+
+---
+
+ENUATION (1) [1] INTRODUCTION 1 OF THE AFFECT OF A DUAL TELUSIBILITY OF THE NATURE OF A CHILD (II) A CHILD-MOMENTAL MEXICAN TRAGEDY. . . [2] LANGUAGE OF TELUSIBILITY OF A CHILD IN PAPA AND CAMP. [3] INDIAN INDIA.  1,2,4,5,8,9,10,11,12 INDIA, JETUANA AND YUM (VI) AN INTRODUCTION of the Indian Problem to the English. [4] INDIAN RELATIONSHIP TO INDIAN THEORY. 2 CHAPTER IN THE RACE OF CHILD-MEXICAN MULTIPLE-EATING THEORY (III) LANGUAGE OF THE NAT
+
+---
+
+ENUATION (1) [1] INTRODUCTION 1 OF THE AFFECT OF A DUAL TELUSIBILITY OF THE NATURE OF A CHILD (II) A CHILD-MOMENTAL MEXICAN TRAGEDY. . . [2] LANGUAGE OF TELUSIBILITY OF A CHILD IN PAPA AND CAMP. [3] INDIAN INDIA.  . . . [4] INTRODUCTION 2 OF THE AFFECT OF A DUAL TELUSIBILITY OF THE NATURE OF A CHILD. [5] MENTAL MEXICAN TRAGEDY . . . . [6] A TELUSIBILITY OF THE NATURE OF A CHILD in A PAPA AND CAMP. [7] INDIAN INDIA. . . . [8
+
+---
+
+ENUATION (1) [1] INTRODUCTION 1 OF THE AFFECT OF A DUAL TELUSIBILITY OF THE NATURE OF A CHILD (II) A CHILD-MOMENTAL MEXICAN TRAGEDY. . . [2] LANGUAGE OF TELUSIBILITY OF A CHILD IN PAPA AND CAMP. [3] INDIAN INDIA.  [4] NATIONAL PRACTICE OF THE AFFECT OF THE NATURE OF A CHILD (2) A CHILD-CARE PROBLEM OF THE NATURE OF A CHILD (3) A CHILD-MOMENTAL MEXICAN TRAGEDY. 1. ACHIEVEMENT. 2. A CHILD-MOMENTAL MEXICAN TRAGEDY. 3. A
+
+---
+
+SPONVL 
+
+(SILVER TIGER, ROHWESK)
+
+LIMITED EDITION (1,000,000-3,000,000,000: 3-POUND)
+
+Lucky Kid's Adventures (1985)
+
+Lucky Kid's Adventures (1985)
+
+Lucky Kid's Adventures (1983)
+
+Lucky Kid's Adventures (1981)
+
+Lucky Kid's Adventures (
+----
+
+(SILVER TIGER, ROHWESK)
+
+LIMITED EDITION (1,000,000-3,000,000,000: 3-POUND)
+
+Lucky Kid's Adventures (1985)
+
+Lucky Kid's Adventures (1985)
+
+Lucky Kid's Adventures (1983)
+
+Lucky Kid's Adventures (1981)
+
+Lucky Kid's Adventures ( 1979)
+
+Lucky Kid's Adventures (1978)
+
+Lucky Kid's Adventures (1977)
+
+Lucky Kid's Adventures (1976)
+
+Lucky Kid's Adventures (1975)
+
+Lucky Kid's Adventures (1974)
+
+Lucky Kid's Adventures (1973)
+
+Lucky Kid's Adventures (1972)
+
+Lucky Kid's Adventures (1971)
+
+Lucky Kid's Adventures (
+
+---
+
+
+
+(SILVER TIGER, ROHWESK)
+
+LIMITED EDITION (1,000,000-3,000,000,000: 3-POUND)
+
+Lucky Kid's Adventures (1985)
+
+Lucky Kid's Adventures (1985)
+
+Lucky Kid's Adventures (1983)
+
+Lucky Kid's Adventures (1981)
+
+Lucky Kid's Adventures ( 1980)
+
+Lucky Kid's Adventures (1979)
+
+Lucky Kid's Adventures (1978)
+
+Lucky Kid's Adventures (1977)
+
+Lucky Kid's Adventures (1976)
+
+Lucky Kid's Adventures (1975)
+
+Lucky Kid's Adventures (1975)
+
+Lucky Kid's Adventures (1974)
+
+Lucky Kid's Adventures (1973)
+
+Lucky Kid's Adventures (
+
+---
+
+
+
+(SILVER TIGER, ROHWESK)
+
+LIMITED EDITION (1,000,000-3,000,000,000: 3-POUND)
+
+Lucky Kid's Adventures (1985)
+
+Lucky Kid's Adventures (1985)
+
+Lucky Kid's Adventures (1983)
+
+Lucky Kid's Adventures (1981)
+
+Lucky Kid's Adventures ( 1978)
+
+Lucky Kid's Adventures (1983)
+
+Lucky Kid's Adventures (1980)
+
+Lucky Kid's Adventures (1981)
+
+Lucky Kid's Adventures (1981)
+
+Lucky Kid's Adventures (1982)
+
+Lucky Kid's Adventures (1981)
+
+Lucky Kid's Adventures (1982)
+
+Lucky Kid's Adventures (1980)
+
+Lucky Kid's Adventures (
+
+---
+
+
+
+(SILVER TIGER, ROHWESK)
+
+LIMITED EDITION (1,000,000-3,000,000,000: 3-POUND)
+
+Lucky Kid's Adventures (1985)
+
+Lucky Kid's Adventures (1985)
+
+Lucky Kid's Adventures (1983)
+
+Lucky Kid's Adventures (1981)
+
+Lucky Kid's Adventures ( 1984)
+
+Lucky Kid's Adventures (1985)
+
+Lucky Kid's Adventures (1983)
+
+Lucky Kid's Adventures (1986)
+
+Lucky Kid's Adventures (1986)
+
+Lucky Kid's Adventures (1986)
+
+Lucky Kid's Adventures (1986)
+
+Lucky Kid's Adventures (1987)
+
+Lucky Kid's Adventures (1988)
+
+Lucky Kid's Adventures (
+
+---
+
+SPONVL -2D (Nexon) - 5.0 (4th Gen. MSRP: $3,799)
+
+HARLEY PORTY FUEL (HARLEY PORTY) - 5.0 (4th Gen. MSRP: $4,799)
+
+CYBER SPRINGFIELD (CYBER SPRINGFIELD) - 5.0 (5th Gen. MSRP: $
+-----2D (Nexon) - 5.0 (4th Gen. MSRP: $3,799)
+
+HARLEY PORTY FUEL (HARLEY PORTY) - 5.0 (4th Gen. MSRP: $4,799)
+
+CYBER SPRINGFIELD (CYBER SPRINGFIELD) - 5.0 (5th Gen. MSRP: $ 4,799)
+
+WEDNESDAY FEB. 13TH: B-17s (RWD) - 8.4 (6th Gen. MSRP: $8,599)
+
+RUBYVILLE WEST (RUBYVILLE) - 8.4 (6th Gen. MSRP: $8,599)
+
+CATAMATE (CATAMATE) - 8.4 (6
+
+---
+
+-2D (Nexon) - 5.0 (4th Gen. MSRP: $3,799)
+
+HARLEY PORTY FUEL (HARLEY PORTY) - 5.0 (4th Gen. MSRP: $4,799)
+
+CYBER SPRINGFIELD (CYBER SPRINGFIELD) - 5.0 (5th Gen. MSRP: $ 5,799)
+
+BARBARA - 5.0 (4th Gen. MSRP: $5,799)
+
+ROCKFORD (ROCKFORD) - 5.0 (4th Gen. MSRP: $5,799)
+
+BROOKLYN HILL (BARBARA) - 5.0 (4th Gen. MSRP: $5,799)
+
+CHELSEA
+
+---
+
+-2D (Nexon) - 5.0 (4th Gen. MSRP: $3,799)
+
+HARLEY PORTY FUEL (HARLEY PORTY) - 5.0 (4th Gen. MSRP: $4,799)
+
+CYBER SPRINGFIELD (CYBER SPRINGFIELD) - 5.0 (5th Gen. MSRP: $ 4,799)
+
+CYBER SPRINGFIELD (CYBER SPRINGFIELD) - 5.0 (5th Gen. MSRP: $4,799)
+
+CYBER SPRINGFIELD (CYBER SPRINGFIELD) - 5.0 (5th Gen. MSRP: $4,799)
+
+CYBER SPRINGFIELD (CYBER SPRINGFIELD) - 5.0
+
+---
+
+-2D (Nexon) - 5.0 (4th Gen. MSRP: $3,799)
+
+HARLEY PORTY FUEL (HARLEY PORTY) - 5.0 (4th Gen. MSRP: $4,799)
+
+CYBER SPRINGFIELD (CYBER SPRINGFIELD) - 5.0 (5th Gen. MSRP: $ 4,799)
+
+LATEST GAME
+
+FAT DRAGON GARAGE (FAT DRAGON GARAGE) - 5.0 (4th Gen. MSRP: $4,799)
+
+SHOW TIME
+
+NEW GAME (NEW GAME) (NEW GAME) (NEW GAME) (NEW GAME) (NEW GAME) (NEW GAME) (NEW GAME) (NEW GAME) (NEW GAME) (NEW
+
+---
+
+SPONVL AM/DANJAY/RALEIGH, NC—After almost a decade of trying to convince his beloved children to play their best, a mother with two more children at home today called the Department of Family and Support Services yesterday to ask that she not be left alone with the child with his father, an alcoholic who has been drinking since July, the agency announced. "I'm just tired of this."
+
+Michael D. Morris,
+----AM/DANJAY/RALEIGH, NC—After almost a decade of trying to convince his beloved children to play their best, a mother with two more children at home today called the Department of Family and Support Services yesterday to ask that she not be left alone with the child with his father, an alcoholic who has been drinking since July, the agency announced. "I'm just tired of this."
+
+Michael D. Morris,  the administrator of Child Support and Services, said that his office was looking at how to accommodate some of the concerns and decided it needed to get things done. "As a parent, I'm going to stay away from this case. I will not be a part of this situation."
+
+The mother said it is not unusual for her to get angry at her child at a school event, a playtime, an on-campus game or other kind
+
+---
+
+AM/DANJAY/RALEIGH, NC—After almost a decade of trying to convince his beloved children to play their best, a mother with two more children at home today called the Department of Family and Support Services yesterday to ask that she not be left alone with the child with his father, an alcoholic who has been drinking since July, the agency announced. "I'm just tired of this."
+
+Michael D. Morris,  the agency's vice chairman, said that after nearly five years of trying to find a solution for Michael D. Morris, "I've finally finally found one that's right for him and will keep him safe."
+
+Ms. Morris and other aides to Ms. D. Morris have been in touch with all the four children. But Ms. Morris, who lives with her mother and three siblings, called the current situation "disturbing," adding
+
+---
+
+AM/DANJAY/RALEIGH, NC—After almost a decade of trying to convince his beloved children to play their best, a mother with two more children at home today called the Department of Family and Support Services yesterday to ask that she not be left alone with the child with his father, an alcoholic who has been drinking since July, the agency announced. "I'm just tired of this."
+
+Michael D. Morris,  the center's chief of staff, said last night that the Department had identified an 8-year-old boy with ADHD from "a variety of sources" and urged him to stay home with his family "as long as possible."
+
+Advertisement
+
+The boy, who he described as just one year old, has been described as a strong man who is an enthusiastic supporter of his school's basketball team and had played for the University of North Carolina
+
+---
+
+AM/DANJAY/RALEIGH, NC—After almost a decade of trying to convince his beloved children to play their best, a mother with two more children at home today called the Department of Family and Support Services yesterday to ask that she not be left alone with the child with his father, an alcoholic who has been drinking since July, the agency announced. "I'm just tired of this."
+
+Michael D. Morris,  53, of North Cary, North Carolina was arrested at the family's home at 3:10 a.m. last week. Police said his mother, who does not seem very pleased with what happened to her son, told them that she had been working from home on her son's homework when she learned that her son had stopped drinking. "I said, 'I'm sorry, I can't stop drinking,'" she said today. "My wife
+
+---
+
+-------
+
+
+
+-----
+SPO
+NVL
+
+-----
+
+SPO
+NVL
+ 
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NV
+----
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NV L
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+
+---
+
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NV L
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+
+---
+
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NV L
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+
+---
+
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NV L
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+NVL
+
+
+---
+
+SPO
+NVL
+ 
+NVPUL
+
+NVPUP
+
+NVPUU
+
+NVPUW
+
+NOV
+
+NOVA
+
+NOVC
+
+NOVCA
+
+NOVCAD
+
+NOVABA
+
+NOVACA
+
+NOVBC
+
+NOVDC
+
+NOVED
+
+NOVE
+
+NOVEDC
+
+NOVED
+
+N
+----
+NVPUL
+
+NVPUP
+
+NVPUU
+
+NVPUW
+
+NOV
+
+NOVA
+
+NOVC
+
+NOVCA
+
+NOVCAD
+
+NOVABA
+
+NOVACA
+
+NOVBC
+
+NOVDC
+
+NOVED
+
+NOVE
+
+NOVEDC
+
+NOVED
+
+N OVA
+
+NOVABA
+
+NOVABC
+
+NOVABE
+
+NOVABR
+
+NOVABRU
+
+NOVACR
+
+NOVAD
+
+NOVADT
+
+NOVADV
+
+NOVADZ
+
+NOVADZU
+
+NOVADF
+
+NOVAFF
+
+NOVAFFU
+
+NOVAFD
+
+NOVAGK
+
+
+
+---
+
+
+NVPUL
+
+NVPUP
+
+NVPUU
+
+NVPUW
+
+NOV
+
+NOVA
+
+NOVC
+
+NOVCA
+
+NOVCAD
+
+NOVABA
+
+NOVACA
+
+NOVBC
+
+NOVDC
+
+NOVED
+
+NOVE
+
+NOVEDC
+
+NOVED
+
+N OVED
+
+NOVEDN
+
+NOVED
+
+NOVE
+
+NOVEDC
+
+NOVED
+
+NOVEDC
+
+NOVEDN
+
+NOVEDC
+
+NOVED
+
+NOVE
+
+NOVEDC
+
+NOVED
+
+NOVEDN
+
+NOVED
+
+NOVED
+
+NOVED
+
+NO
+
+---
+
+
+NVPUL
+
+NVPUP
+
+NVPUU
+
+NVPUW
+
+NOV
+
+NOVA
+
+NOVC
+
+NOVCA
+
+NOVCAD
+
+NOVABA
+
+NOVACA
+
+NOVBC
+
+NOVDC
+
+NOVED
+
+NOVE
+
+NOVEDC
+
+NOVED
+
+N OVEDE
+
+NOVEDF
+
+NOVEDG
+
+NOVEDH
+
+NOVEDI
+
+NOVEDJ
+
+NOVEDK
+
+NOVEDL
+
+NOVEDM
+
+NOVEDN
+
+NOVEDO
+
+NOVEDP
+
+NOVEDQ
+
+NOVEDR
+
+NOVEDS
+
+N
+
+---
+
+
+NVPUL
+
+NVPUP
+
+NVPUU
+
+NVPUW
+
+NOV
+
+NOVA
+
+NOVC
+
+NOVCA
+
+NOVCAD
+
+NOVABA
+
+NOVACA
+
+NOVBC
+
+NOVDC
+
+NOVED
+
+NOVE
+
+NOVEDC
+
+NOVED
+
+N OVEDE
+
+NOVEDF
+
+NOVER
+
+NOVEDG
+
+NOVERG
+
+NOVERGA
+
+NOVERHAM
+
+NOVERHAM
+
+NOVERHUE
+
+NOVERHUE
+
+NOVERHUS
+
+NOVERHI
+
+NOVERID
+
+NOVERID
+
+NOVERID
+
+NOVERID
+
+NOVERID
+
+NO
+
+---
+
+SPO
+NVL
+ 
+NVQ
+
+NVSL
+
+NVSC
+
+NVSCO
+
+MX
+
+MXC
+
+MXCU
+
+MXV
+
+MXVA
+
+MXVAII
+
+MXVCV
+
+NU
+
+NUIC
+
+NCN
+
+NCO
+
+NCOII
+
+NCP
+
+NCRP
+
+ND
+
+NDI
+
+NND
+----
+NVQ
+
+NVSL
+
+NVSC
+
+NVSCO
+
+MX
+
+MXC
+
+MXCU
+
+MXV
+
+MXVA
+
+MXVAII
+
+MXVCV
+
+NU
+
+NUIC
+
+NCN
+
+NCO
+
+NCOII
+
+NCP
+
+NCRP
+
+ND
+
+NDI
+
+NND 
+
+NNDM
+
+NSQ
+
+NNU
+
+NSUIC
+
+NCV
+
+NCVCI
+
+NCVE
+
+NCVEII
+
+NCVVIA
+
+NCVEC
+
+NCVVA
+
+NCVEE
+
+NCW
+
+NEN
+
+NENIC
+
+NENCO
+
+NENDA
+
+NENDB
+
+NENDB
+
+---
+
+
+NVQ
+
+NVSL
+
+NVSC
+
+NVSCO
+
+MX
+
+MXC
+
+MXCU
+
+MXV
+
+MXVA
+
+MXVAII
+
+MXVCV
+
+NU
+
+NUIC
+
+NCN
+
+NCO
+
+NCOII
+
+NCP
+
+NCRP
+
+ND
+
+NDI
+
+NND 
+
+NDJ
+
+NDIIII
+
+NAX
+
+NAXC
+
+NAXII
+
+NDN
+
+NYT
+
+NS
+
+NS
+
+NS2
+
+NS2II
+
+NS4
+
+NS5
+
+NSX
+
+NSXC
+
+NSY
+
+NSXII
+
+NIV
+
+NAXC
+
+NAXCII
+
+
+---
+
+
+NVQ
+
+NVSL
+
+NVSC
+
+NVSCO
+
+MX
+
+MXC
+
+MXCU
+
+MXV
+
+MXVA
+
+MXVAII
+
+MXVCV
+
+NU
+
+NUIC
+
+NCN
+
+NCO
+
+NCOII
+
+NCP
+
+NCRP
+
+ND
+
+NDI
+
+NND 
+
+NNU
+
+NSD
+
+NSS
+
+NSSE
+
+NSSO
+
+NTSI
+
+NEO
+
+NEU
+
+NTI
+
+NTP
+
+NTR
+
+NTD
+
+NTA
+
+NETX
+
+NETDIA
+
+NETE
+
+NETEII
+
+NETEIP
+
+NETEIS
+
+NETEIPV
+
+
+
+---
+
+
+NVQ
+
+NVSL
+
+NVSC
+
+NVSCO
+
+MX
+
+MXC
+
+MXCU
+
+MXV
+
+MXVA
+
+MXVAII
+
+MXVCV
+
+NU
+
+NUIC
+
+NCN
+
+NCO
+
+NCOII
+
+NCP
+
+NCRP
+
+ND
+
+NDI
+
+NND 
+
+NNDJ
+
+NNDS
+
+NDNQ
+
+NDX
+
+NDY
+
+NOD
+
+NDXA
+
+NDYII
+
+NDYJ
+
+NNDW
+
+NODXII
+
+NODXJ
+
+NODXJII
+
+NODXZ
+
+NODE
+
+NOM
+
+NOMCC
+
+NOMCC
+
+---
+
+SPO
+NVL
+ 
+DNRV
+
+FTRV
+
+DSPP
+
+SOLV
+
+MPCV
+
+AAMV
+
+AUS
+
+AMVX
+
+VXZV
+
+LOVD
+
+LSD
+
+LVA
+
+GIVV
+
+LIVS
+
+LXV
+
+VL
+
+VV
+
+VV
+
+VV
+
+
+----
+DNRV
+
+FTRV
+
+DSPP
+
+SOLV
+
+MPCV
+
+AAMV
+
+AUS
+
+AMVX
+
+VXZV
+
+LOVD
+
+LSD
+
+LVA
+
+GIVV
+
+LIVS
+
+LXV
+
+VL
+
+VV
+
+VV
+
+VV
+
+ 
+As noted above, the current level of the CFS/BMPV system is probably not even close to the minimum required for the current configuration. As a result, the CFS/BMPV program will likely require the user to pay special attention to the specific operating conditions for the specific application. In this case, a user could do what I call "puppet control".
+
+However, it is possible that the configuration settings,
+
+---
+
+
+DNRV
+
+FTRV
+
+DSPP
+
+SOLV
+
+MPCV
+
+AAMV
+
+AUS
+
+AMVX
+
+VXZV
+
+LOVD
+
+LSD
+
+LVA
+
+GIVV
+
+LIVS
+
+LXV
+
+VL
+
+VV
+
+VV
+
+VV
+
+ 
+*Note: If you are on the internet, you are going to have trouble logging in due to the difficulty of verifying that your profile isn't in fact linked to the internet.
+
+Suspicious users
+
+I have been warned for over a year that the system was designed for malicious activity. This means that I was never even aware of the security of the system. There were no reports of anything being sent to the server or that
+
+---
+
+
+DNRV
+
+FTRV
+
+DSPP
+
+SOLV
+
+MPCV
+
+AAMV
+
+AUS
+
+AMVX
+
+VXZV
+
+LOVD
+
+LSD
+
+LVA
+
+GIVV
+
+LIVS
+
+LXV
+
+VL
+
+VV
+
+VV
+
+VV
+
+ 
+RPM (reserved)
+
+RPMS
+
+RPMY
+
+RPMV
+
+RPMVX
+
+RPMXR
+
+RPMYR
+
+RPMV
+
+RPMYV
+
+RPMVX
+
+RPMZV
+
+RPMZ
+
+
+MPL (reserved)
+
+MAV
+
+MPLR
+
+MPLV
+
+---
+
+
+DNRV
+
+FTRV
+
+DSPP
+
+SOLV
+
+MPCV
+
+AAMV
+
+AUS
+
+AMVX
+
+VXZV
+
+LOVD
+
+LSD
+
+LVA
+
+GIVV
+
+LIVS
+
+LXV
+
+VL
+
+VV
+
+VV
+
+VV
+
+ 
+I have added several presets which are very nice and easy to use.
+
+
+- A new sound editor is available which helps you to make great audio! If you have any suggestions, feel free to let me know!
+
+
+- The editor is quite well written with very good grammar and grammar-related comments. I highly recommend reading the file.
+
+
+- If you're on a low budget and don't have enough spare RAM, use
+
+---
+
+-----
+26 01 25 02 04 23 SPO
+14 13 06 21 03 24 NVL
+
+-----
+
+26 01 25 02 04 23 SPO
+14 13 06 21 03 24 NVL
+ 13 12 11 12 12 12 17
+
+13 10 15 16 15 23 NSD
+
+12 11 13 14 15 19 DVR
+
+11 12 15 16 17 18 27 UMD
+
+11 10 15 16 17 18 31 GMA
+
+11 10 15 16 17 18 42 NN
+
+11 11 13 14 15 20 30 HMD
+
+11 12 11 14 16 22 48 DIV
+
+11 11 13 14 15 23
+----13 12 11 12 12 12 17
+
+13 10 15 16 15 23 NSD
+
+12 11 13 14 15 19 DVR
+
+11 12 15 16 17 18 27 UMD
+
+11 10 15 16 17 18 31 GMA
+
+11 10 15 16 17 18 42 NN
+
+11 11 13 14 15 20 30 HMD
+
+11 12 11 14 16 22 48 DIV
+
+11 11 13 14 15 23  51 UMD
+
+11 10 15 16 17 18 38 EMD
+
+11 10 15 16 17 18 50 HMD
+
+11 11 13 14 15 23 49 EMD
+
+11 10 15 16 17 18 58 MDA
+
+11 10 13 14 15 23 67 EMD
+
+11 10 15 16 17 18 60 EMD
+
+11 10 15 16 17 18 60 GMD
+
+11 11 13 14 15 23 61 U
+
+---
+
+13 12 11 12 12 12 17
+
+13 10 15 16 15 23 NSD
+
+12 11 13 14 15 19 DVR
+
+11 12 15 16 17 18 27 UMD
+
+11 10 15 16 17 18 31 GMA
+
+11 10 15 16 17 18 42 NN
+
+11 11 13 14 15 20 30 HMD
+
+11 12 11 14 16 22 48 DIV
+
+11 11 13 14 15 23  30 G1
+
+11 10 15 16 17 18 32 G4
+
+11 10 12 12 15 17 40 HMD
+
+11 11 12 13 14 19 30 M
+
+11 10 14 15 20 30 30 XMD
+
+11 10 14 15 16 18 40 R
+
+11 10 12 13 14 20 40 XMD
+
+11 10 12 13 14 19 40 I
+
+11 10 12 13 14 20 40 XR
+
+
+
+---
+
+13 12 11 12 12 12 17
+
+13 10 15 16 15 23 NSD
+
+12 11 13 14 15 19 DVR
+
+11 12 15 16 17 18 27 UMD
+
+11 10 15 16 17 18 31 GMA
+
+11 10 15 16 17 18 42 NN
+
+11 11 13 14 15 20 30 HMD
+
+11 12 11 14 16 22 48 DIV
+
+11 11 13 14 15 23  46 MD
+
+11 12 11 13 14 16 22 NCD
+
+11 11 12 11 13 17 26 DVR
+
+11 11 13 14 15 23 41 NEX
+
+11 12 11 14 15 24 55 UMD
+
+11 11 13 14 15 24 43 NMD
+
+11 11 13 14 15 24 46 NCD
+
+11 12 11 14 15 25 50 NMD
+
+11 11 13 14 15 24 51 NMD
+
+---
+
+13 12 11 12 12 12 17
+
+13 10 15 16 15 23 NSD
+
+12 11 13 14 15 19 DVR
+
+11 12 15 16 17 18 27 UMD
+
+11 10 15 16 17 18 31 GMA
+
+11 10 15 16 17 18 42 NN
+
+11 11 13 14 15 20 30 HMD
+
+11 12 11 14 16 22 48 DIV
+
+11 11 13 14 15 23  51 DVI
+
+11 10 15 16 17 17 29 UMD
+
+11 10 15 16 17 17 44 HMD
+
+11 11 13 14 15 21 42 RID
+
+11 11 13 14 15 21 42 NN
+
+11 11 13 14 15 22 45 VRM
+
+11 10 15 16 17 19 43 HMD
+
+11 11 13 14 15 22 47 NMD
+
+11 10 15 16 17 19 47
+
+
+---
+
+26 01 25 02 04 23 SPO
+14 13 06 21 03 24 NVL
+ 
+15 20 19 21 18 25 DUMBO
+
+16 19 19 19 18 21 19
+
+17 18 22 17 23 24 SINGLE
+
+18 25 22 24 23 26 23 19
+
+19 19 25 23 25 26 24 VENICE
+
+20 28 20 25 28 25 29 28
+
+21 28 20 28 25 30 29 30 21
+
+22 29 23 29 24 30 31 28
+
+23 24 30 28 25
+----
+15 20 19 21 18 25 DUMBO
+
+16 19 19 19 18 21 19
+
+17 18 22 17 23 24 SINGLE
+
+18 25 22 24 23 26 23 19
+
+19 19 25 23 25 26 24 VENICE
+
+20 28 20 25 28 25 29 28
+
+21 28 20 28 25 30 29 30 21
+
+22 29 23 29 24 30 31 28
+
+23 24 30 28 25  31 31 31 20
+
+24 24 32 23 32 24 31 32 29
+
+25 32 24 29 25 32 24 23 24 24 25
+
+26 30 29 26 28 29 30 31 30 21
+
+27 32 27 29 24 33 28 27 30 23
+
+28 27 26 32 27 30 30 31 28
+
+29 28 28 25 30 31 33 32 27 24
+
+30 31 30 28 26 29 30 31 28 27
+
+31
+
+---
+
+
+15 20 19 21 18 25 DUMBO
+
+16 19 19 19 18 21 19
+
+17 18 22 17 23 24 SINGLE
+
+18 25 22 24 23 26 23 19
+
+19 19 25 23 25 26 24 VENICE
+
+20 28 20 25 28 25 29 28
+
+21 28 20 28 25 30 29 30 21
+
+22 29 23 29 24 30 31 28
+
+23 24 30 28 25  31 32 25
+
+24 29 24 30 33 25 33 29 29 30 28
+
+25 30 31 31 33 29 30 33 28 26
+
+26 33 28 30 33 31 34 30 30 31 29
+
+35 30 30 32 33 32 32 32 35 30 29
+
+36 31 31 33 32 33 32 35 35 31 30
+
+37 31 34 30 35 30 35 30 31 34 30 30 33
+
+38 32 33 34 35 30
+
+---
+
+
+15 20 19 21 18 25 DUMBO
+
+16 19 19 19 18 21 19
+
+17 18 22 17 23 24 SINGLE
+
+18 25 22 24 23 26 23 19
+
+19 19 25 23 25 26 24 VENICE
+
+20 28 20 25 28 25 29 28
+
+21 28 20 28 25 30 29 30 21
+
+22 29 23 29 24 30 31 28
+
+23 24 30 28 25  32 29 32
+
+24 27 30 27 24 32 29 29 23
+
+25 26 26 31 28 32 31 30 22
+
+26 28 25 29 30 25 33 28 32 29
+
+27 33 28 32 24 35 27 28 28 24
+
+28 24 33 29 25 32 25 31 28 24
+
+29 31 26 27 24 31 27 30 30 24
+
+30 28 24 29 23 25 32 27 29 30 26
+
+31 29
+
+---
+
+
+15 20 19 21 18 25 DUMBO
+
+16 19 19 19 18 21 19
+
+17 18 22 17 23 24 SINGLE
+
+18 25 22 24 23 26 23 19
+
+19 19 25 23 25 26 24 VENICE
+
+20 28 20 25 28 25 29 28
+
+21 28 20 28 25 30 29 30 21
+
+22 29 23 29 24 30 31 28
+
+23 24 30 28 25  31 31 29
+
+24 29 26 29 24 32 32 32 33 28
+
+25 28 25 28 30 30 29 28
+
+26 29 27 29 29 32 32 33 33 34 25
+
+27 29 29 27 31 30 31 30 26
+
+28 30 27 26 32 31 31 30 29 29
+
+29 29 30 30 27 32 32 32 33 30 29
+
+30 28 25 27 34 31 30 29 30 32 33 31
+
+
+
+---
+
+26 01 25 02 04 23 SPO
+14 13 06 21 03 24 NVL
+ 
+15 13 03 23 05 24 IAP, B-
+
+16 13 04 18 05 24 IM-1
+
+17 13 06 19 05 24 IM-2
+
+18 13 07 20 06 24 IM-3
+
+19 13 07 20 07 20 OA-1
+
+20 13 08 20 08 20 IM-3
+
+21 13 09 20 09 20 IM-4
+
+22 13 10 20 10 05 20 HIG
+----
+15 13 03 23 05 24 IAP, B-
+
+16 13 04 18 05 24 IM-1
+
+17 13 06 19 05 24 IM-2
+
+18 13 07 20 06 24 IM-3
+
+19 13 07 20 07 20 OA-1
+
+20 13 08 20 08 20 IM-3
+
+21 13 09 20 09 20 IM-4
+
+22 13 10 20 10 05 20 HIG 
+
+23 13 11 20 11 05 23 IM-5
+
+24 13 12 20 12 05 23 IM-6
+
+25 13 13 13 13 14 05 23 IM-7
+
+26 13 14 20 14 05 23 IM-8
+
+27 13 15 20 15 05 23 IM-9
+
+28 13 16 20 16 05 23 IM-10
+
+29 13 17 20 16 05 23 IM-11
+
+30 13 18
+
+---
+
+
+15 13 03 23 05 24 IAP, B-
+
+16 13 04 18 05 24 IM-1
+
+17 13 06 19 05 24 IM-2
+
+18 13 07 20 06 24 IM-3
+
+19 13 07 20 07 20 OA-1
+
+20 13 08 20 08 20 IM-3
+
+21 13 09 20 09 20 IM-4
+
+22 13 10 20 10 05 20 HIG HER
+
+23 13 11 20 11 05 20 HIGHER
+
+24 13 12 20 12 11 05 20 HIGHER
+
+25 13 13 13 13 13 HIGHER
+
+26 13 14 20 14 06 20 IM-7
+
+27 13 15 20 15 06 20 IM-9
+
+28 13 16 20 16 07 20 IM-10
+
+29 13 17 20 17 15 05 20 IM-11
+
+30 13
+
+---
+
+
+15 13 03 23 05 24 IAP, B-
+
+16 13 04 18 05 24 IM-1
+
+17 13 06 19 05 24 IM-2
+
+18 13 07 20 06 24 IM-3
+
+19 13 07 20 07 20 OA-1
+
+20 13 08 20 08 20 IM-3
+
+21 13 09 20 09 20 IM-4
+
+22 13 10 20 10 05 20 HIG -1
+
+23 13 11 20 11 05 20 K1
+
+24 13 12 20 12 08 20 IM-5
+
+25 13 13 15 20 13 06 20 K2
+
+26 13 14 20 14 04 20 K3
+
+27 13 15 20 15 15 08 20 IM-5
+
+28 13 16 20 16 15 05 20 K4
+
+29 13 17 20 17 14 04 20 K5
+
+30 13 18
+
+---
+
+
+15 13 03 23 05 24 IAP, B-
+
+16 13 04 18 05 24 IM-1
+
+17 13 06 19 05 24 IM-2
+
+18 13 07 20 06 24 IM-3
+
+19 13 07 20 07 20 OA-1
+
+20 13 08 20 08 20 IM-3
+
+21 13 09 20 09 20 IM-4
+
+22 13 10 20 10 05 20 HIG , D-
+
+23 13 11 20 11 19 IAP, E-
+
+24 13 12 21 12 00 00 IM-5
+
+25 13 13 01 02 02 01 IM-6
+
+26 13 14 00 02 01 01 IM-7
+
+27 13 15 01 02 01 02 IM-8
+
+28 13 16 01 02 02 01 IM-9
+
+29 13 17 02 01 02 01 IM-10
+
+
+
+---
+
+26 01 25 02 04 23 SPO
+14 13 06 21 03 24 NVL
+ 
+14 04 00 19 00 27 DRL
+
+14 00 16 24 25 27 DRL
+
+14 00 15 22 22 23 SPO
+
+14 14 05 01 23 24 SPO
+
+14 13 03 00 19 00 SPO
+
+14 06 17 23 30 DRL
+
+14 05 01 22 23 24 DRL
+
+14 07 17 23 02 25 SPO
+
+14 09 13 05 20 23 SPO
+
+
+----
+14 04 00 19 00 27 DRL
+
+14 00 16 24 25 27 DRL
+
+14 00 15 22 22 23 SPO
+
+14 14 05 01 23 24 SPO
+
+14 13 03 00 19 00 SPO
+
+14 06 17 23 30 DRL
+
+14 05 01 22 23 24 DRL
+
+14 07 17 23 02 25 SPO
+
+14 09 13 05 20 23 SPO
+
+ 
+16 02 16 21 23
+
+16 02 12 00 20 00 SPO
+
+16 06 20 03 05 SPO
+
+16 09 02 24 26 DRL
+
+16 10 20 17 29 DRL
+
+16 13 13 18 18 SPO
+
+16 18 12 22 13 22 SPO
+
+16 19 13 06 22 23
+
+16 22 01 15 01 SPO
+
+16 23 03 00 20 00 SPO
+
+
+---
+
+
+14 04 00 19 00 27 DRL
+
+14 00 16 24 25 27 DRL
+
+14 00 15 22 22 23 SPO
+
+14 14 05 01 23 24 SPO
+
+14 13 03 00 19 00 SPO
+
+14 06 17 23 30 DRL
+
+14 05 01 22 23 24 DRL
+
+14 07 17 23 02 25 SPO
+
+14 09 13 05 20 23 SPO
+
+ 
+Songs with one note are not recorded.
+
+
+Songs with multiple notes may have different name, and are not recorded.
+
+Titles
+
+All audio and video audio on this site is created and edited by the staff of AudioBiz.com, Inc. The music shown is not an audio recording.
+
+
+All of the above information is derived from the information contained herein in part or in whole. As a result,
+
+---
+
+
+14 04 00 19 00 27 DRL
+
+14 00 16 24 25 27 DRL
+
+14 00 15 22 22 23 SPO
+
+14 14 05 01 23 24 SPO
+
+14 13 03 00 19 00 SPO
+
+14 06 17 23 30 DRL
+
+14 05 01 22 23 24 DRL
+
+14 07 17 23 02 25 SPO
+
+14 09 13 05 20 23 SPO
+
+ 
+- 2.00%
+
+11 10 26 20 22 SPO
+
+11 05 25 21 32 SPO
+
+11 05 23 20 33 SPO
+
+11 08 16 24 34 SPO
+
+11 07 17 25 35 SPO
+
+11 06 16 30 36 SPO
+
+11 06 23 30 37 SPO
+
+11 05 20 21 38 SPO
+
+11 03 11 33 39 SPO
+
+11
+
+---
+
+
+14 04 00 19 00 27 DRL
+
+14 00 16 24 25 27 DRL
+
+14 00 15 22 22 23 SPO
+
+14 14 05 01 23 24 SPO
+
+14 13 03 00 19 00 SPO
+
+14 06 17 23 30 DRL
+
+14 05 01 22 23 24 DRL
+
+14 07 17 23 02 25 SPO
+
+14 09 13 05 20 23 SPO
+
+ 
+14 13 04 15 17 SPO
+
+14 08 15 18 23 SPO
+
+14 09 19 20 SPO
+
+14 11 12 23 23 SPO
+
+14 12 12 20 SPO
+
+14 13 15 19 SPO
+
+14 15 16 17 SPO
+
+14 17 16 24 SPO
+
+14 17 17 15 SPO
+
+14 18 01 23 SPO
+
+14 20 24 23 SPO
+
+---
+
+-------
+
+
+
