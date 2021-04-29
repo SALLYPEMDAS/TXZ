@@ -1,0 +1,70 @@
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	&gt;
+
+&lt;channel&gt;
+	&lt;title&gt;Aqua Security Trivy GitHub Action &amp;#8211; AiThority&lt;/title&gt;
+	&lt;atom:link href="https://aithority.com/tag/aqua-security-trivy-github-action/feed/" rel="self" type="application/rss+xml" /&gt;
+	&lt;link&gt;https://aithority.com&lt;/link&gt;
+	&lt;description&gt;Artificial Intelligence &amp;#124; News &amp;#124; Insights &amp;#124; AiThority&lt;/description&gt;
+	&lt;lastBuildDate&gt;Thu, 08 Oct 2020 13:36:20 +0000&lt;/lastBuildDate&gt;
+	&lt;language&gt;en-US&lt;/language&gt;
+	&lt;sy:updatePeriod&gt;
+	hourly	&lt;/sy:updatePeriod&gt;
+	&lt;sy:updateFrequency&gt;
+	1	&lt;/sy:updateFrequency&gt;
+	&lt;generator&gt;https://wordpress.org/?v=5.6&lt;/generator&gt;
+
+&lt;image&gt;
+	&lt;url&gt;https://aithority.com/wp-content/uploads/2017/09/cropped-AITHORITY-300-x-70-LOGO-1-32x32.png&lt;/url&gt;
+	&lt;title&gt;Aqua Security Trivy GitHub Action &amp;#8211; AiThority&lt;/title&gt;
+	&lt;link&gt;https://aithority.com&lt;/link&gt;
+	&lt;width&gt;32&lt;/width&gt;
+	&lt;height&gt;32&lt;/height&gt;
+&lt;/image&gt; 
+	&lt;item&gt;
+		&lt;title&gt;Aqua&amp;#8217;s Trivy Now Available as a GitHub Action&lt;/title&gt;
+		&lt;link&gt;https://aithority.com/it-and-devops/cloud/aquas-trivy-now-available-as-a-github-action/&lt;/link&gt;
+					&lt;comments&gt;https://aithority.com/it-and-devops/cloud/aquas-trivy-now-available-as-a-github-action/#respond&lt;/comments&gt;
+		
+		&lt;dc:creator&gt;&lt;![CDATA[AIT News Desk]]&gt;&lt;/dc:creator&gt;
+		&lt;pubDate&gt;Thu, 08 Oct 2020 13:36:20 +0000&lt;/pubDate&gt;
+				&lt;category&gt;&lt;![CDATA[Cloud]]&gt;&lt;/category&gt;
+		&lt;category&gt;&lt;![CDATA[News]]&gt;&lt;/category&gt;
+		&lt;category&gt;&lt;![CDATA[Security]]&gt;&lt;/category&gt;
+		&lt;category&gt;&lt;![CDATA[Aqua Security]]&gt;&lt;/category&gt;
+		&lt;category&gt;&lt;![CDATA[Aqua Security Trivy GitHub Action]]&gt;&lt;/category&gt;
+		&lt;category&gt;&lt;![CDATA[cloud-native security]]&gt;&lt;/category&gt;
+		&lt;category&gt;&lt;![CDATA[GitHub]]&gt;&lt;/category&gt;
+		&lt;category&gt;&lt;![CDATA[Trivy vulnerability scanner]]&gt;&lt;/category&gt;
+		&lt;guid isPermaLink="false"&gt;https://aithority.com/?p=167688&lt;/guid&gt;
+
+					&lt;description&gt;&lt;![CDATA[&lt;div style="margin-bottom:20px;"&gt;&lt;img width="1600" height="900" src="https://aithority.com/wp-content/uploads/2020/08/Aqua.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Aqua&amp;#039;s Trivy Now Available as a GitHub Action" loading="lazy" srcset="https://aithority.com/wp-content/uploads/2020/08/Aqua.jpg 1600w, https://aithority.com/wp-content/uploads/2020/08/Aqua-300x169.jpg 300w, https://aithority.com/wp-content/uploads/2020/08/Aqua-1024x576.jpg 1024w, https://aithority.com/wp-content/uploads/2020/08/Aqua-768x432.jpg 768w, https://aithority.com/wp-content/uploads/2020/08/Aqua-1536x864.jpg 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /&gt;&lt;/div&gt;
+&lt;p&gt;Aqua Security, the pure-play cloud native security leader, announced that Aqua&amp;#8217;s open source Trivy vulnerability scanner&nbsp;is now available as an&nbsp;Aqua Security Trivy GitHub Action. The action integrates with&nbsp;GitHub code scanning&nbsp;so developers can build container image scanning into their GitHub Actions workflow to find and eliminate vulnerabilities before they reach production. &amp;#8220;Code scanning was purpose-built with [&amp;#8230;]&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://aithority.com/it-and-devops/cloud/aquas-trivy-now-available-as-a-github-action/"&gt;Aqua&amp;#8217;s Trivy Now Available as a GitHub Action&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://aithority.com"&gt;AiThority&lt;/a&gt;.&lt;/p&gt;
+]]&gt;&lt;/description&gt;
+										&lt;content:encoded&gt;&lt;![CDATA[&lt;div style="margin-bottom:20px;"&gt;&lt;img width="1600" height="900" src="https://aithority.com/wp-content/uploads/2020/08/Aqua.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Aqua&amp;#039;s Trivy Now Available as a GitHub Action" loading="lazy" srcset="https://aithority.com/wp-content/uploads/2020/08/Aqua.jpg 1600w, https://aithority.com/wp-content/uploads/2020/08/Aqua-300x169.jpg 300w, https://aithority.com/wp-content/uploads/2020/08/Aqua-1024x576.jpg 1024w, https://aithority.com/wp-content/uploads/2020/08/Aqua-768x432.jpg 768w, https://aithority.com/wp-content/uploads/2020/08/Aqua-1536x864.jpg 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /&gt;&lt;/div&gt;&lt;p&gt;&lt;a href="https://aithority.com/?s=Aqua+Security"&gt;Aqua Security&lt;/a&gt;, the pure-play &lt;a href="https://aithority.com/?s=cloud+native+security"&gt;cloud native security&lt;/a&gt; leader, announced that Aqua&amp;#8217;s open source &lt;a href="https://aithority.com/?s=Trivy+vulnerability+scanner"&gt;Trivy vulnerability scanner&lt;/a&gt;&nbsp;is now available as an&nbsp;Aqua Security Trivy GitHub Action. The action integrates with&nbsp;&lt;a href="https://aithority.com/?s=GitHub"&gt;GitHub&lt;/a&gt; code scanning&nbsp;so developers can build container image scanning into their GitHub Actions workflow to find and eliminate vulnerabilities before they reach production.&lt;/p&gt;
+&lt;p&gt;&amp;#8220;Code scanning was purpose-built with extensibility in mind,&amp;#8221; said&nbsp;&lt;a href="https://www.linkedin.com/in/john-leon-17a7262/"&gt;&lt;span class="xn-person"&gt;John Leon&lt;/span&gt;&lt;/a&gt;, VP of Business Development at GitHub. &amp;#8220;We continue to expand our security ecosystem with solutions like Aqua, so developers can work with the security scanning technologies they want, all within the GitHub-native experience they love. Together, we&amp;#8217;re making security easier for everyone.&amp;#8221;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Recommended AI News: &lt;/strong&gt;&lt;a href="https://aithority.com/it-and-devops/cloud/snowflake-launches-snowflake-partner-network-to-expand-partner-offering-and-commitment-to-the-ecosystem/"&gt;Snowflake Launches Snowflake Partner Network To Expand Partner Offering And Commitment To The Ecosystem&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GitHub code scanning integrates with GitHub Actions or users&amp;#8217; existing CI/CD environments and scans code as it&amp;#8217;s created, surfacing actionable security reviews within pull requests and other GitHub experiences.&lt;/p&gt;
+&lt;p&gt;The Aqua Security Trivy Action integration finds vulnerabilities (CVEs) in the OS package dependencies and language libraries built into a container image. Developers must avoid deploying images that might harbor significant CVEs that attackers can exploit. The Trivy Action alerts developers to known CVEs via the GitHub user interface to quickly and easily update these dependencies and eliminate the risk.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Recommended AI News: &lt;/strong&gt;&lt;a href="https://aithority.com/saas/siemens-adds-modern-cloud-plm-to-xcelerator-portfolio-with-new-saas-offering/"&gt;Siemens Adds Modern Cloud PLM To Xcelerator Portfolio With New SaaS Offering&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The Trivy Action generates output in a format called SARIF that GitHub supports for ingesting security information. The output from an image scan appears right in the GitHub code scanning UI, specifically under a project repository&amp;#8217;s Security tab.&lt;/p&gt;
+&lt;p&gt;&amp;#8220;Developers are moving more applications into production, so we&amp;#8217;re focused on helping them build securely without slowing down innovation,&amp;#8221; said&nbsp;&lt;a href="https://www.linkedin.com/in/lizrice/"&gt;&lt;span class="xn-person"&gt;Liz Rice&lt;/span&gt;&lt;/a&gt;, VP of Open Source Engineering at Aqua. &amp;#8220;The new Aqua Security Trivy GitHub Action brings container security scanning right into the GitHub interface that developers know and love.&amp;#8221;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Recommended AI News: &lt;/strong&gt;&lt;a href="https://aithority.com/technology/life-sciences/kidneyintelx-receives-new-york-state-approval-to-commence-commercial-testing/"&gt;KidneyIntelX Receives New York State Approval To Commence Commercial Testing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="https://aithority.com/it-and-devops/cloud/aquas-trivy-now-available-as-a-github-action/"&gt;Aqua&amp;#8217;s Trivy Now Available as a GitHub Action&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="https://aithority.com"&gt;AiThority&lt;/a&gt;.&lt;/p&gt;
+]]&gt;&lt;/content:encoded&gt;
+					
+					&lt;wfw:commentRss&gt;https://aithority.com/it-and-devops/cloud/aquas-trivy-now-available-as-a-github-action/feed/&lt;/wfw:commentRss&gt;
+			&lt;slash:comments&gt;0&lt;/slash:comments&gt;
+		
+		
+			&lt;/item&gt;
+	&lt;/channel&gt;
+&lt;/rss&gt;
+</pre></body></html>

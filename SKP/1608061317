@@ -1,0 +1,123 @@
+<html prefix="og: http://ogp.me/ns#"><head>
+    <meta charset="utf-8">
+    <title>Texture | A UI Framework for Effortless Responsiveness</title>
+    <link rel="stylesheet" href="/stylesheets/main.css" type="text/css">
+    <link rel="stylesheet" href="/stylesheets/media.css" type="text/css">
+    <link rel="stylesheet" href="/stylesheets/pygments.css" type="text/css">
+    <link rel="apple-touch-icon" sizes="57x57" href="/static/images/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/static/images/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/static/images/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/static/images/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/static/images/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/static/images/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/static/images/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/static/images/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/static/images/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/static/images/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/static/images/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/static/images/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/static/images/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/static/images/favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/static/images/favicon/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="viewport" content="width=480">
+    <meta property="og:title" content="A UI Framework for Effortless Responsiveness">
+    <meta property="og:site_name" content="Texture">
+    <meta property="og:description" content="Texture">
+    <meta property="og:image" content="http://texturegroup.org/static/asyncdisplaykit-og-image.png">
+    <meta property="og:url" content="http://texturegroup.org/">
+    <meta property="og:type" content="website">
+    <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//use.typekit.net/vqa1hcx.js"></script>
+    <script type="text/javascript">{'try{Typekit.load();}catch(e){}'}</script>
+    <script src="/static/toggle.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet" type="text/css">
+    
+    <script>
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ ga('create', 'UA-87502907-1', 'auto');
+ ga('send', 'pageview');
+
+</script>
+
+    
+</head>
+<body>
+<div class="texture-banner">
+  <div class="container">
+    <p class="announcement">AsyncDisplayKit is now Texture! <a class="learn-more-link" href="https://medium.com/@Pinterest_Engineering/introducing-texture-a-new-home-for-asyncdisplaykit-e7c003308f50" rel="noopener noreferrer" target="_blank">LEARN MORE</a></p>
+  </div>
+</div>
+<header>
+	<div class="container">
+		<h1 id="logo">
+            <a href="/">
+                <img src="/static/images/logo.svg" alt="Texture">
+            </a>
+        </h1>
+		<nav>
+			<ul>
+				<li><a href="/docs/getting-started.html">docs</a></li>
+				<li><a href="/slack.html">slack</a></li>
+				<li><a href="/showcase.html">showcase</a></li>
+				<li><a href="/appledocs.html">api</a></li>
+				<li><a href="http://github.com/texturegroup/texture">github</a></li>
+	    	</ul>
+		</nav>
+	</div>
+</header>
+
+
+
+
+<section class="content">
+<div class="width">
+<article>
+
+<div class="hero">
+	<div class="container">
+		<div class="hero-title">Keeps the most complex iOS user interfaces smooth and responsive.</div>
+		<a href="/docs/getting-started.html" class="btn">Get Started</a>
+		<a href="https://github.com/texturegroup/texture" class="btn btn-outlined">View on GitHub</a>
+	</div>
+</div>
+
+<div class="container">
+	<article>
+		<p>Texture is an iOS framework built on top of UIKit that keeps even the most complex user interfaces smooth and responsive. It was originally built to make Facebook's Paper possible, and goes hand-in-hand with <a href="https://github.com/facebook/pop">pop</a>'s physics-based animations — but it's just as powerful with UIKit Dynamics and conventional app designs. More recently, it was used to power Pinterest's <a href="https://www.wired.com/2016/04/pinterest-reinvents-prove-really-worth-billions/">app rewrite</a>.</p>
+
+		<p>As the framework has grown, many features have been added that can save developers tons of time by eliminating common boilerplate style structures common in modern iOS apps. If you've ever dealt with cell reuse bugs, tried to performantly preload data for a page or scroll style interface or even just tried to keep your app from dropping too many frames you can benefit from integrating Texture.</p>
+
+		<p>To learn more, <a href="/docs/getting-started.html">check out our docs!</a></p>
+	</article>
+</div>
+
+
+</article>
+</div>
+</section>
+<footer class="copyright">
+	<div class="container">
+		<p>Built at <a href="https://engineering.pinterest.com">Pinterest</a></p>
+	</div>
+</footer>
+
+<script src="/static/linkify.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-44373548-4', 'auto');
+  ga('send', 'pageview');
+
+  !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+</script>
+
+
+
+<iframe scrolling="no" frameborder="0" allowtransparency="true" src="https://platform.twitter.com/widgets/widget_iframe.96fd96193cc66c3e11d4c5e4c7c7ec97.html?origin=https%3A%2F%2Ftexturegroup.org" title="Twitter settings iframe" style="display: none;"></iframe><iframe id="rufous-sandbox" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: none;" title="Twitter analytics iframe"></iframe></body></html>
