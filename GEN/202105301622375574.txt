@@ -1,0 +1,13 @@
+-----
+Elvgita.dll
+-----
+
+Elvgita.dll ,10.18.0010.0026.0023 (English),7/20/2017 23:57:30,624832 bytes Driver: C:\WINDOWS\SysWow64\Mgmt32.dll,10.18.0010.0026.0023 (English),7/20/2017 23:57:30,96464
+----,10.18.0010.0026.0023 (English),7/20/2017 23:57:30,624832 bytes Driver: C:\WINDOWS\SysWow64\Mgmt32.dll,10.18.0010.0026.0023 (English),7/20/2017 23:57:30,96464  bytes Driver: C:\WINDOWS\SysWow64\MgmtRSP.dll,10.18.0010.0026.0023 (English),7/20/2017 23:57:30,174028 bytes Driver: C:\WINDOWS\SysWow64\Dnscom.dll,10.18.0010.0026.0023
+
+---
+
+-------
+
+
+

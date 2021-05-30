@@ -1,0 +1,33 @@
+-----
+Archangel
+-----
+
+Archangel og.org.
+
+There are also a few "v1.0" releases available now, but it is clear there is more to come.
+
+"Update to 3.2.7 released!"
+
+Update 3.2.7 is here and there but there are still a lot of bugs to address:
+
+* Support for the
+----og.org.
+
+There are also a few "v1.0" releases available now, but it is clear there is more to come.
+
+"Update to 3.2.7 released!"
+
+Update 3.2.7 is here and there but there are still a lot of bugs to address:
+
+* Support for the  latest patch 5.3.2 which brings an improved GPU rendering and graphics card to Android 6.0.
+
+* Additions to the "AutoLoad" feature to prevent Android 6 devices from having to use their phone's camera in order to play some VR content.
+
+* Fixed an issue with some older Android devices that were unable to install a
+
+---
+
+-------
+
+
+

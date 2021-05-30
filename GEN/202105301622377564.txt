@@ -1,0 +1,53 @@
+-----
+Archangel
+-----
+
+Archangel  "Icons" , "Navi" ) {
+
+// Create a "mainmenu" and "controlmenu" and move in on the right side.
+
+// We create a menu for this menu:
+
+menu : null ;
+
+}
+
+private const menu = menu || null ;
+
+private void initMenu ( const UI
+---- "Icons" , "Navi" ) {
+
+// Create a "mainmenu" and "controlmenu" and move in on the right side.
+
+// We create a menu for this menu:
+
+menu : null ;
+
+}
+
+private const menu = menu || null ;
+
+private void initMenu ( const UI Item *item , MenuItem control ) {
+
+control . setMenuState ( initMenu (item),
+
+menu . getControlState ());
+
+}
+
+private void addMenu ( MenuItem control ) {
+
+addMenu ( control );
+
+}
+
+private void removeMenu ( MenuItem control ) {
+
+removeMenu
+
+---
+
+-------
+
+
+

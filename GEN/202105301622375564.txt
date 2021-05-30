@@ -1,0 +1,23 @@
+-----
+Elvgita
+-----
+
+Elvgita .dll in the root of the system partition. On Windows Vista and Windows 7, a new dialog box appears asking the user to install the new OS. If the user fails to make the installation, they can press 'E' again.
+
+If you're using Windows 7, the user can continue using the operating system. But if the user crashes when they go to
+----.dll in the root of the system partition. On Windows Vista and Windows 7, a new dialog box appears asking the user to install the new OS. If the user fails to make the installation, they can press 'E' again.
+
+If you're using Windows 7, the user can continue using the operating system. But if the user crashes when they go to  check the box that says 'install OS 1.x from the system partition.'
+
+This bug was fixed in Windows Vista and Windows 7 by Microsoft. It is reported on this page.
+
+The following is a list of all affected drivers that are affected in these crashes, with a warning if you see a crash while using Windows Vista.
+
+Supported drivers:<|endoftext|>
+
+---
+
+-------
+
+
+
