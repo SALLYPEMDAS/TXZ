@@ -1,0 +1,13 @@
+-----
+MOONBIRDS
+-----
+
+MOONBIRDS .txt," "C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Units\Starbound\resources\Data\Data\DataUriel.zip," "C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Units\Star
+----.txt," "C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Units\Starbound\resources\Data\Data\DataUriel.zip," "C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Units\Star bound\resources\Data\Data\DataSakara.zip," "C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Units\Starbound\resources\Data\Data\DataSakara.txt," "C:\Program Files (x86)\Steam
+
+---
+
+-------
+
+
+

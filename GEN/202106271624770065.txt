@@ -1,0 +1,21 @@
+-----
+wow ok
+-----
+
+wow ok  this works, just check the game and see if it works, but please remember that this only works with the mod listed above.
+
+Spoiler:
+
+Install:
+
+I suggest you download this first so that you can see the install directions for this mod.
+
+Download and unzip the contents of this file in your Skyrim directory.
+
+Put a clean save of this mod into your load order.
+
+Copy over "TESTING.esm" (the
+-----------
+
+
+

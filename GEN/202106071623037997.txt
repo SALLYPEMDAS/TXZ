@@ -1,0 +1,35 @@
+-----
+done
+-----
+
+done )
+
+$result = {$results}
+
+if not $this -> set_value( '_value' ) {
+
+$result [ "value" ] = '{' . join( $result ) }' ;
+
+if $result [ 'value' ] !== '0
+----)
+
+$result = {$results}
+
+if not $this -> set_value( '_value' ) {
+
+$result [ "value" ] = '{' . join( $result ) }' ;
+
+if $result [ 'value' ] !== '0 ' || $result [ 'value' ] !== '0' || $result [ 'value' ] !== '1' || $result [ 'value' ] !== '2' ) {
+
+$result = $this -> get_value_result();
+
+} else {
+
+
+
+---
+
+-------
+
+
+

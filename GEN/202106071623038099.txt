@@ -1,0 +1,49 @@
+-----
+> done )
+-----
+
+> done ) 
+
+( defmacro i ()
+
+( if ( eq ( mapcar " i "
+
+" " " " )
+
+( setq l ( eq 1 ) ( eq 1 ) ) )
+
+( if ( eq l ( eq 1 ) ) )
+
+( cond (( eq "
+----
+
+( defmacro i ()
+
+( if ( eq ( mapcar " i "
+
+" " " " )
+
+( setq l ( eq 1 ) ( eq 1 ) ) )
+
+( if ( eq l ( eq 1 ) ) )
+
+( cond (( eq "  ( ") ( ") " )))
+
+( setq s ( " " )))
+
+( if ( eq s ( " " ) )
+
+( cons
+
+( cdr ( if ( eq 1 )
+
+( setq l ( eq 1 ) ) ) )
+
+( setq
+
+---
+
+-------
+
+
+

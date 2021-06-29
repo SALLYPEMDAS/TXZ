@@ -1,0 +1,57 @@
+-----
+Graph
+-----
+
+Graph , Inc. A collection of cryptographic libraries, all made by an independent developer.
+
+Sender is a program that makes a file transfer in C as simple as simple text files. It allows clients to send encrypted message to each other, without requiring any intermediary. The code itself can be used for making a variety of similar file transfers.
+
+Sender is based on the PPA file. It uses C++, which is now standard by default.
+
+Sender is based on the Bazaar library. Bazaar's signature allows it to automatically import other parts of OpenSSL (and other standard libraries) from within its own OpenSSL package.
+
+In addition to using OpenSSL, Sender uses a number of third-party libraries as well.
+
+Sender comes with a C++ compiler (C++11), which may be used for many other programming languages.
+
+In a nutshell:
+
+A program that encrypts, decrypts, and returns a data stream. It works for any OpenSSL program, including C++11. (In C++11 only it does not support AES, so it is not possible to use the same ciphertext on a distributed system.)
+
+A program that converts an input stream to
+----, Inc. A collection of cryptographic libraries, all made by an independent developer.
+
+Sender is a program that makes a file transfer in C as simple as simple text files. It allows clients to send encrypted message to each other, without requiring any intermediary. The code itself can be used for making a variety of similar file transfers.
+
+Sender is based on the PPA file. It uses C++, which is now standard by default.
+
+Sender is based on the Bazaar library. Bazaar's signature allows it to automatically import other parts of OpenSSL (and other standard libraries) from within its own OpenSSL package.
+
+In addition to using OpenSSL, Sender uses a number of third-party libraries as well.
+
+Sender comes with a C++ compiler (C++11), which may be used for many other programming languages.
+
+In a nutshell:
+
+A program that encrypts, decrypts, and returns a data stream. It works for any OpenSSL program, including C++11. (In C++11 only it does not support AES, so it is not possible to use the same ciphertext on a distributed system.)
+
+A program that converts an input stream to  a binary file. It has the advantages over OpenSSL, but requires the creation of many non-standard library modules (e.g., libraries with less than 100 lines of C++).
+
+An implementation of a given cryptographic protocol. It may also be written in Java or C++.
+
+A protocol which generates a private key. This key is a public key of the source key. (In C++, the private key is actually the secret key.)
+
+A system for generating cryptographic information in memory. This data is stored in a private buffer that is known to each client as the pool. The pool, called the "buffer", is used for storage and verification of the client key. There is no external storage for the data that needs to be generated. In C++, the buffer is called the "private" buffer (in particular, it is known as the private buffer in Java).
+
+Sender relies on the Bazaar cryptographic library, which can be found on GitHub.
+
+The following code example shows how to do some simple cryptographic operations on a non-standard C library.
+
+This example does not include any external libraries or software needed to provide the client with private keys. There are a couple of caveats to the
+
+---
+
+-------
+
+
+

@@ -1,0 +1,43 @@
+-----
+flag
+-----
+
+flag 
+
+If an array contains at least one object containing the type "object", we can use the following:
+
+Array<<String>()
+
+Which takes us to the constructor of array , which must be an array of String values.
+
+In my code, it takes two arguments:
+
+Array<String>()
+
+The constructor of Array is
+----
+
+If an array contains at least one object containing the type "object", we can use the following:
+
+Array<<String>()
+
+Which takes us to the constructor of array , which must be an array of String values.
+
+In my code, it takes two arguments:
+
+Array<String>()
+
+The constructor of Array is  Object .
+
+If an array is empty, we can safely assume that there are no other values in the object. If a String is assigned, we can check to see if the given object has any given value.
+
+An array can also contain objects whose properties contain only an integer value.
+
+If we assign an integer value to an array, then it represents
+
+---
+
+-------
+
+
+

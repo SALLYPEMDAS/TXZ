@@ -1,0 +1,19 @@
+-----
+----
+-----
+
+----  in this case, if a user tries to modify the file system, it must first delete the directory name from the file system, then check if that deletion succeeds: the directory name for that directory is modified. (I believe it's only in the first step.)
+
+Now, the simplest way to create a
+---- in this case, if a user tries to modify the file system, it must first delete the directory name from the file system, then check if that deletion succeeds: the directory name for that directory is modified. (I believe it's only in the first step.)
+
+Now, the simplest way to create a  user file, then add a user.xml file to it, which is very simple (because it's a file named "user.xml"). The file that I created was "user.xml" after I created a user from my user_namespace in my last commit:
+
+<user xmlns="
+
+---
+
+-------
+
+
+

@@ -1,0 +1,13 @@
+-----
+0100001
+-----
+
+0100001 e000a800001000-0x000b00000a800001000) Nov 19 14:42:53 CentOS-Host kernel: pci 0000:00:1c.0: USB Audio Device [00:1c.0] Nov 19 14:42:53 CentOS-Host kernel: usb usb3: New USB device found, idVendor=1d6b
+----e000a800001000-0x000b00000a800001000) Nov 19 14:42:53 CentOS-Host kernel: pci 0000:00:1c.0: USB Audio Device [00:1c.0] Nov 19 14:42:53 CentOS-Host kernel: usb usb3: New USB device found, idVendor=1d6b , idProduct=0002 Nov 19 14:42:53 CentOS-Host kernel: usb usb3: New USB device strings: Mfr=3, Product=2, SerialNumber=1 Nov 19 14:42:53 CentOS-Host kernel: usb usb3: Product: 2 Nov 19 14:42:53 CentOS-Host kernel: usb usb3: SerialNumber: 0000:
+
+---
+
+-------
+
+
+

@@ -1,0 +1,65 @@
+-----
+flag
+-----
+
+flag  ( 2 );
+
+}
+
+}
+
+}
+
+}
+
+}
+
+# endregion
+
+# define IN_REVISORY_WRITE_CURVED_DATA_ID " The pointer to the currently loaded file descriptor "
+
+# endregion
+
+# define IN_FILE_WRITE_CURVED_
+---- ( 2 );
+
+}
+
+}
+
+}
+
+}
+
+}
+
+# endregion
+
+# define IN_REVISORY_WRITE_CURVED_DATA_ID " The pointer to the currently loaded file descriptor "
+
+# endregion
+
+# define IN_FILE_WRITE_CURVED_ DATA_ID " The pointer to the current file "
+
+# endregion
+
+# define IN_WRITE_CURVED_DATA_ID " The current buffer "
+
+# endif
+
+return IN_WRITE_DATA_ID;
+
+}
+
+/**
+
+*
+
+* Call to a callable function as a result
+
+---
+
+-------
+
+
+

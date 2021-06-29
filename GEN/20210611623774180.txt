@@ -1,0 +1,25 @@
+-----
+second
+-----
+
+second  I'll write a tutorial to explain to you how to build your own custom version of Google Chrome with the Chromium browser for a single-use browser (without running Google Chrome and Firefox).
+
+For more information on how to build a Chromium-powered Chrome based browser, see this post.
+
+Step 1: Install the Chromium-powered Chrome
+
+After
+---- I'll write a tutorial to explain to you how to build your own custom version of Google Chrome with the Chromium browser for a single-use browser (without running Google Chrome and Firefox).
+
+For more information on how to build a Chromium-powered Chrome based browser, see this post.
+
+Step 1: Install the Chromium-powered Chrome
+
+After  installing Chromium on a Chromebook using the build instructions, you should see a list of installed services and features available on the homepage of the website. You should see a drop down list of available libraries and services. The most common ones will be installed by default on your Chromebook, and many are already supported (though not required). On top of that, you need to set up
+
+---
+
+-------
+
+
+

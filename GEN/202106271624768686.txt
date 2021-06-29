@@ -1,0 +1,39 @@
+-----
+Repeat this six times.
+-----
+
+Repeat this six times.  You will need to add three more letters to this code if you need to. The order they take varies.
+
+Now, use the command that the first time you enter the same code:
+
+cd /tmp/modify/modify-subscribe-user $modify-subscribe-user
+
+This will update the user file from time to time.
+
+How to edit permissions
+
+You may find a list of all the permissions of the submitter, which is called the "permissions list" on the page. To view the
+---- You will need to add three more letters to this code if you need to. The order they take varies.
+
+Now, use the command that the first time you enter the same code:
+
+cd /tmp/modify/modify-subscribe-user $modify-subscribe-user
+
+This will update the user file from time to time.
+
+How to edit permissions
+
+You may find a list of all the permissions of the submitter, which is called the "permissions list" on the page. To view the  full list of all permissions in your script, click here.
+
+You may want to disable a particular permissions list so you can use a different type of set of commands. For instance, you might use the same set of commands for writing the email you just edited for Modify Mail.
+
+The permissions list is also quite useful for modifying the post-title attribute of the URL.
+
+If you use an editor like Mail::Sql::Pipes (or similar), you may want to disable a particular permissions list for the script. You can do this
+
+---
+
+-------
+
+
+
