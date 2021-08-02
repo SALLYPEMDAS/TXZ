@@ -1,0 +1,17 @@
+-----
+Chapter 1: The Grid
+-----
+
+Chapter 1: The Grid 
+
+The grid is the primary physical environment of the game. The grid is the physical space in which every other player is located. The grid is used to represent points, places, and events in the game, but it also serves as a reference point for players.
+
+The grid may be considered the central physical environment in games with many systems of units and items, or it may be used as a "sphere of influence" in single player scenarios. This second configuration uses the grid as a point of reference, but with the player's location relative to a large number of other points. If there is a common physical location in a few locations, then players can travel to and from that location without the necessity of travel through the other locations.
+
+As I mentioned earlier, the grid of units and items is used to represent points, places, and events that are unique to the game. In a real game, each unit or item in the game represents the specific physical location of the player in a specific area. In the grid, the unit represents the player's position relative to a large number of physical locations (not locations) and other units represent his location relative to a very few locations. The grid represents the physical location and physical objects of a given location.
+
+For example, a character standing at the north-south axis of a large rectangular table with a large number of players in it may be represented by a square that has a similar shape to the entire grid. Each player has their positions relative to this rectangular table
+-----------
+
+
+

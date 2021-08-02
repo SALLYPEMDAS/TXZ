@@ -1,0 +1,9 @@
+-----
+The android
+-----
+
+The android  app is pretty much complete. It is just a very simple app that lets you manage settings of your account, like how many emails
+-----------
+
+
+
